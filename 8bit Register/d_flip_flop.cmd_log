@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/22201088/Project2/d_flip_flop.xst" -ofn "/home/ise/22201088/Project2/d_flip_flop.syr" 

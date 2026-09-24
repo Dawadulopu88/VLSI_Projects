@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/VLSI/Project2-20260924T125526Z-1-001/Project2/d_latch.xst" -ofn "/home/ise/VLSI/Project2-20260924T125526Z-1-001/Project2/d_latch.syr" 
+xst -intstyle ise -ifn "/home/ise/VLSI/Project2-20260924T125526Z-1-001/Project2/d_latch.xst" -ofn "/home/ise/VLSI/Project2-20260924T125526Z-1-001/Project2/d_latch.syr" 
