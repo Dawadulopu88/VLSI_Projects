@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/demo/adder_8bit_tb.xst" -ofn "/home/ise/demo/adder_8bit_tb.syr" 

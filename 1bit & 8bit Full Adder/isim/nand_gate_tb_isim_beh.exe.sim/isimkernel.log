@@ -1,0 +1,10 @@
+Command line:
+   nand_gate_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51629
+
+Sat Sep 19 08:01:12 2026
+
+
+ Elaboration Time: 0.1 sec
