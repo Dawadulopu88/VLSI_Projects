@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Computer_22201088" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/adder_4bit - Structural |home|ise|VLSI|computer|Computer_22201088|adder_4bit.vhd</ClosedNode>
+         <ClosedNode>/adder_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|adder_8bit.vhd</ClosedNode>
+         <ClosedNode>/adder_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|adder_8bit.vhd/HIGH_NIBBLE - adder_4bit - Structural/FA - full_adder - Structural/U1 - half_adder - Structural</ClosedNode>
+         <ClosedNode>/adder_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|adder_8bit.vhd/HIGH_NIBBLE - adder_4bit - Structural/FA - full_adder - Structural/U2 - half_adder - Structural</ClosedNode>
+         <ClosedNode>/adder_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|adder_8bit.vhd/HIGH_NIBBLE - adder_4bit - Structural/FA - full_adder - Structural/U3 - or_gate - Structural</ClosedNode>
+         <ClosedNode>/adder_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|adder_8bit.vhd/LOW_NIBBLE - adder_4bit - Structural/FA - full_adder - Structural/U1 - half_adder - Structural</ClosedNode>
+         <ClosedNode>/adder_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|adder_8bit.vhd/LOW_NIBBLE - adder_4bit - Structural/FA - full_adder - Structural/U2 - half_adder - Structural</ClosedNode>
+         <ClosedNode>/adder_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|adder_8bit.vhd/LOW_NIBBLE - adder_4bit - Structural/FA - full_adder - Structural/U3 - or_gate - Structural</ClosedNode>
+         <ClosedNode>/alu_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|alu_8bit.vhd</ClosedNode>
+         <ClosedNode>/and_gate - Structural |home|ise|VLSI|computer|Computer_22201088|and_gate.vhd</ClosedNode>
+         <ClosedNode>/arith_unit - Structural |home|ise|VLSI|computer|Computer_22201088|arith_unit.vhd/ADDER - adder_8bit - Structural</ClosedNode>
+         <ClosedNode>/arith_unit - Structural |home|ise|VLSI|computer|Computer_22201088|arith_unit.vhd/U_NOT - not_gate - Structural</ClosedNode>
+         <ClosedNode>/d_latch - Structural |home|ise|VLSI|computer|Computer_22201088|d_latch.vhd</ClosedNode>
+         <ClosedNode>/full_adder - Structural |home|ise|VLSI|computer|Computer_22201088|full_adder.vhd</ClosedNode>
+         <ClosedNode>/half_adder - Structural |home|ise|VLSI|computer|Computer_22201088|half_adder.vhd</ClosedNode>
+         <ClosedNode>/logic_unit - Structural |home|ise|VLSI|computer|Computer_22201088|logic_unit.vhd</ClosedNode>
+         <ClosedNode>/master_slave_ff - Structural |home|ise|VLSI|computer|Computer_22201088|master_slave_ff.vhd</ClosedNode>
+         <ClosedNode>/mux_8to1 - Structural |home|ise|VLSI|computer|Computer_22201088|mux_8to1.vhd</ClosedNode>
+         <ClosedNode>/not_gate - Structural |home|ise|VLSI|computer|Computer_22201088|not_gate.vhd</ClosedNode>
+         <ClosedNode>/or_gate - Structural |home|ise|VLSI|computer|Computer_22201088|or_gate.vhd</ClosedNode>
+         <ClosedNode>/register_1bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_1bit.vhd</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT0 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT0 - register_1bit - Structural/FF - master_slave_ff - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT0 - register_1bit - Structural/FF - master_slave_ff - Structural/MASTER - d_latch - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT0 - register_1bit - Structural/FF - master_slave_ff - Structural/SLAVE - d_latch - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT1 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT1 - register_1bit - Structural/FF - master_slave_ff - Structural/MASTER - d_latch - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT1 - register_1bit - Structural/FF - master_slave_ff - Structural/SLAVE - d_latch - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT2 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT2 - register_1bit - Structural/FF - master_slave_ff - Structural/MASTER - d_latch - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT2 - register_1bit - Structural/FF - master_slave_ff - Structural/SLAVE - d_latch - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT3 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT4 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT5 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT6 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_BIT7 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd/REG_INST - register_1bit - Structural/FF - master_slave_ff - Structural</ClosedNode>
+         <ClosedNode>/shift_unit - Structural |home|ise|VLSI|computer|Computer_22201088|shift_unit.vhd</ClosedNode>
+         <ClosedNode>/sr_latch - Structural |home|ise|VLSI|computer|Computer_22201088|sr_latch.vhd</ClosedNode>
+         <ClosedNode>/xor_gate - Structural |home|ise|VLSI|computer|Computer_22201088|xor_gate.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>alu_8bit - Structural (/home/ise/VLSI/computer/Computer_22201088/alu_8bit.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000016e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000016e0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>alu_8bit - Structural (/home/ise/VLSI/computer/Computer_22201088/alu_8bit.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000021d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000021d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000390000000040101000100000000000000000000000064ffffffff000000810000000000000004000000510000000100000000000000290000000100000000000000840000000100000000000002920000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>adder_4bit.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000128000000010001000100000000000000000000000064ffffffff000000810000000000000001000001280000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000021d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000021d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/adder_4bit - Structural |home|ise|VLSI|computer|Computer_22201088|adder_4bit.vhd</ClosedNode>
+         <ClosedNode>/adder_4bit_tb - behavior |home|ise|VLSI|computer|Computer_22201088|adder_4bit_tb.vhd</ClosedNode>
+         <ClosedNode>/adder_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|adder_8bit.vhd</ClosedNode>
+         <ClosedNode>/adder_8bit_tb - Behavioral |home|ise|VLSI|computer|Computer_22201088|adder_8bit_tb.vhd</ClosedNode>
+         <ClosedNode>/adder_8bit_tb - behavior |home|ise|VLSI|computer|Computer_22201088|adder_8bit_tb.vhd</ClosedNode>
+         <ClosedNode>/alu_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|alu_8bit.vhd</ClosedNode>
+         <ClosedNode>/alu_8bit_tb - Behavioral |home|ise|VLSI|computer|Computer_22201088|adder_8bit_tb.vhd</ClosedNode>
+         <ClosedNode>/alu_8bit_tb - Behavioral |home|ise|VLSI|computer|Computer_22201088|alu_8bit_tb.vhd</ClosedNode>
+         <ClosedNode>/and_gate - Structural |home|ise|VLSI|computer|Computer_22201088|and_gate.vhd</ClosedNode>
+         <ClosedNode>/and_gate_tb - Behavioral |home|ise|VLSI|computer|Computer_22201088|and_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/and_gate_tb - behavior |home|ise|VLSI|computer|Computer_22201088|and_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/d_latch - Structural |home|ise|VLSI|computer|Computer_22201088|d_latch.vhd</ClosedNode>
+         <ClosedNode>/d_latch_tb - Behavioral |home|ise|VLSI|computer|Computer_22201088|d_latch_tb.vhd</ClosedNode>
+         <ClosedNode>/d_latch_tb - behavior |home|ise|VLSI|computer|Computer_22201088|d_latch_tb.vhd</ClosedNode>
+         <ClosedNode>/full_adder - Structural |home|ise|VLSI|computer|Computer_22201088|full_adder.vhd</ClosedNode>
+         <ClosedNode>/full_adder_tb - Behavioral |home|ise|VLSI|computer|Computer_22201088|full_adder_tb.vhd</ClosedNode>
+         <ClosedNode>/full_adder_tb - behavior |home|ise|VLSI|computer|Computer_22201088|full_adder_tb.vhd</ClosedNode>
+         <ClosedNode>/half_adder - Structural |home|ise|VLSI|computer|Computer_22201088|half_adder.vhd</ClosedNode>
+         <ClosedNode>/half_adder_tb - Behavioral |home|ise|VLSI|computer|Computer_22201088|half_adder_tb.vhd</ClosedNode>
+         <ClosedNode>/half_adder_tb - behavior |home|ise|VLSI|computer|Computer_22201088|half_adder_tb.vhd</ClosedNode>
+         <ClosedNode>/master_slave_ff - Structural |home|ise|VLSI|computer|Computer_22201088|master_slave_ff.vhd</ClosedNode>
+         <ClosedNode>/master_slave_ff_tb - behavior |home|ise|VLSI|computer|Computer_22201088|master_slave_ff_tb.vhd</ClosedNode>
+         <ClosedNode>/nand_gate_tb - Behavioral |home|ise|VLSI|computer|Computer_22201088|nand_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/nand_gate_tb - behavior |home|ise|VLSI|computer|Computer_22201088|nand_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/not_gate - Structural |home|ise|VLSI|computer|Computer_22201088|not_gate.vhd</ClosedNode>
+         <ClosedNode>/not_gate_tb - Behavioral |home|ise|VLSI|computer|Computer_22201088|not_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/not_gate_tb - behavior |home|ise|VLSI|computer|Computer_22201088|not_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/or_gate - Structural |home|ise|VLSI|computer|Computer_22201088|or_gate.vhd</ClosedNode>
+         <ClosedNode>/or_gate_tb - Behavioral |home|ise|VLSI|computer|Computer_22201088|or_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/or_gate_tb - behavior |home|ise|VLSI|computer|Computer_22201088|or_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/register_1bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_1bit.vhd</ClosedNode>
+         <ClosedNode>/register_1bit_tb - behavior |home|ise|VLSI|computer|Computer_22201088|register_1bit_tb.vhd</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|VLSI|computer|Computer_22201088|register_8bit.vhd</ClosedNode>
+         <ClosedNode>/register_8bit_tb - behavior |home|ise|VLSI|computer|Computer_22201088|register_8bit_tb.vhd</ClosedNode>
+         <ClosedNode>/sr_latch - Structural |home|ise|VLSI|computer|Computer_22201088|sr_latch.vhd</ClosedNode>
+         <ClosedNode>/sr_latch_tb - Behavioral |home|ise|VLSI|computer|Computer_22201088|sr_latch_tb.vhd</ClosedNode>
+         <ClosedNode>/sr_latch_tb - behavior |home|ise|VLSI|computer|Computer_22201088|sr_latch_tb.vhd</ClosedNode>
+         <ClosedNode>/tb_adder_4bit - Behavioral |home|ise|VLSI|computer|Computer_22201088|adder_4bit_tb.vhd</ClosedNode>
+         <ClosedNode>/tb_master_slave_ff - Behavioral |home|ise|VLSI|computer|Computer_22201088|master_slave_ff_tb.vhd</ClosedNode>
+         <ClosedNode>/tb_register_1bit - Behavioral |home|ise|VLSI|computer|Computer_22201088|register_1bit_tb.vhd</ClosedNode>
+         <ClosedNode>/tb_register_8bit - Behavior |home|ise|VLSI|computer|Computer_22201088|register_8bit_tb.vhd</ClosedNode>
+         <ClosedNode>/tb_register_8bit - Behavioral |home|ise|VLSI|computer|Computer_22201088|register_8bit_tb.vhd/UUT - register_8bit - Structural</ClosedNode>
+         <ClosedNode>/tb_register_8bit - Behavioral |home|ise|VLSI|computer|Computer_22201088|register_8bit_tb.vhd/UUT - register_8bit - Structural/REG_BIT0 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/tb_register_8bit - Behavioral |home|ise|VLSI|computer|Computer_22201088|register_8bit_tb.vhd/UUT - register_8bit - Structural/REG_BIT1 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/tb_register_8bit - Behavioral |home|ise|VLSI|computer|Computer_22201088|register_8bit_tb.vhd/UUT - register_8bit - Structural/REG_BIT2 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/tb_register_8bit - Behavioral |home|ise|VLSI|computer|Computer_22201088|register_8bit_tb.vhd/UUT - register_8bit - Structural/REG_BIT3 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/tb_register_8bit - Behavioral |home|ise|VLSI|computer|Computer_22201088|register_8bit_tb.vhd/UUT - register_8bit - Structural/REG_BIT4 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/tb_register_8bit - Behavioral |home|ise|VLSI|computer|Computer_22201088|register_8bit_tb.vhd/UUT - register_8bit - Structural/REG_BIT5 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/tb_register_8bit - Behavioral |home|ise|VLSI|computer|Computer_22201088|register_8bit_tb.vhd/UUT - register_8bit - Structural/REG_BIT6 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/tb_register_8bit - Behavioral |home|ise|VLSI|computer|Computer_22201088|register_8bit_tb.vhd/UUT - register_8bit - Structural/REG_BIT7 - register_1bit - Structural</ClosedNode>
+         <ClosedNode>/xor_gate - Structural |home|ise|VLSI|computer|Computer_22201088|xor_gate.vhd</ClosedNode>
+         <ClosedNode>/xor_gate_tb - Behavioral |home|ise|VLSI|computer|Computer_22201088|xor_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/xor_gate_tb - behavior |home|ise|VLSI|computer|Computer_22201088|xor_gate_tb.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>alu_8bit_tb - Behavioral (/home/ise/VLSI/computer/Computer_22201088/alu_8bit_tb.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001b9000000020000000000000000000000000200000064ffffffff000000810000000300000002000001b90000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>alu_8bit_tb - Behavioral (/home/ise/VLSI/computer/Computer_22201088/alu_8bit_tb.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000021d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000021d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000021d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000021d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000014c0000011d01000000060100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+</Project>

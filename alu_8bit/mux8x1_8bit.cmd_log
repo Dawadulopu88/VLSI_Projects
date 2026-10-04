@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/VLSI/computer/Computer_22201088/mux8x1_8bit.xst" -ofn "/home/ise/VLSI/computer/Computer_22201088/mux8x1_8bit.syr" 
