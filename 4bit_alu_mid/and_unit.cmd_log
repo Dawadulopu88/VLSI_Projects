@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "/home/ise/VLSI/computer/mid/and_unit.xst" -ofn "/home/ise/VLSI/computer/mid/and_unit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 and_unit.ngc and_unit.ngd  
+map -intstyle ise -p xc6slx4-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o and_unit_map.ncd and_unit.ngd and_unit.pcf 
+par -w -intstyle ise -ol high -mt off and_unit_map.ncd and_unit.ncd and_unit.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml and_unit.twx and_unit.ncd -o and_unit.twr and_unit.pcf 

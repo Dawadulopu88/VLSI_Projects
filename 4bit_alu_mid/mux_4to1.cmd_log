@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/VLSI/computer/mid/mux_4to1.xst" -ofn "/home/ise/VLSI/computer/mid/mux_4to1.syr" 
